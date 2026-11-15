@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.fseventsd/
+.Trashes/
+.Trash-*/
+.metadata_never_index
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+settings.toml
+secrets.py
